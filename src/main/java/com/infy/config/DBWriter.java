@@ -18,6 +18,9 @@ public class DBWriter implements ItemWriter<User> {
 	@Override
 	public void write(List<? extends User> items) throws Exception {
 		
+		
+		//I changed into DBWriter class
+		
 		//userRepository.save(items);
 	}
 	
