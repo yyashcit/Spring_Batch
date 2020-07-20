@@ -19,7 +19,7 @@ public class DBWriter implements ItemWriter<User> {
 	public void write(List<? extends User> items) throws Exception {
 		
 		
-		//I changed into DBWriter class
+		//I changed into DBWriter class for third time
 		
 		//userRepository.save(items);
 	}
